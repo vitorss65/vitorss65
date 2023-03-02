@@ -1,7 +1,7 @@
 
 
-## Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 2º Semestre de Ciências da Computação na Universidade Paulista
-## Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.
+### Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 2º Semestre de Ciências da Computação na Universidade Paulista
+### Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=aura) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&theme=aura&hide_progress=false)](https://github.com/vitorss65/github-readme-stats)
