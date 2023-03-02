@@ -1,12 +1,12 @@
 
 
-### Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 2º Semestre de Ciências da Computação na Universidade Paulista
-### Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.
+## Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 2º Semestre de Ciências da Computação na Universidade Paulista
+## Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=aura) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&theme=aura&hide_progress=false)](https://github.com/vitorss65/github-readme-stats)
 
-### Minhas Redes:
+Minhas Redes:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-souza-18525324b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorszsilva64@gmail.com)
@@ -14,7 +14,7 @@
 
 
 
-### Tecnologias que costumo usar:
+Tecnologias que costumo usar:
 
 <div style="display: inline_block"><br/> 
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
