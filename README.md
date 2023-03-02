@@ -4,7 +4,7 @@
 ### Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=aura) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 Minhas Redes:
 
