@@ -1,6 +1,6 @@
 
 
-Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 2º Semestre de Ciências da Computação na Universidade Paulista. </br>
+Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 4º Semestre de Ciências da Computação na Universidade Paulista. </br>
  • Atualmente estou em busca de estágio na área. </br></br>
 Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.</br>
 
