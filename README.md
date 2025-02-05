@@ -1,8 +1,9 @@
 
 
 Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 6º Semestre de Ciências da Computação na Universidade Paulista. </br>
- • Cursando Estágio na área de informática. </br></br>
-Nos meus anos de estudo já realizei alguns projetos, seja para trabalho do curso técnico e da faculdade ou apenas por diversão.</br>
+ •Estágiario na área de informática. </br></br>
+Já realizei alguns projetos, seja para trabalho ou para estudo, você pode conferir nos meus repositórios alguns deles, fique a vontade</br>
+Em busca de dominar JAVA e SQL, e me aventurando em Angular-Bootstrap</br>  
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
