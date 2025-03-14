@@ -5,7 +5,7 @@ Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmen
 Já realizei alguns projetos, seja para trabalho ou para estudo, você pode conferir nos meus repositórios alguns deles, fique a vontade</br>
 Em busca de dominar JAVA, Python, SQL</br>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Minhas Redes:
 
