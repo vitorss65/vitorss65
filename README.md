@@ -1,6 +1,6 @@
 
 
-Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 6º Semestre de Ciências da Computação na Universidade Paulista. </br>
+Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 7º Semestre de Ciências da Computação na Universidade Paulista. </br>
  •Estágiario na área de informática. </br></br>
 Já realizei alguns projetos, seja para trabalho ou para estudo, você pode conferir nos meus repositórios alguns deles, fique a vontade</br>
 Em busca de dominar JAVA, Python, SQL</br>  
