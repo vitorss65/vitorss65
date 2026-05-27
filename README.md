@@ -1,28 +1,54 @@
+<h1 align="center">Vítor de Souza</h1>
+<p align="center">
+  <strong>Analista de Dados</strong> • Python • SQL • Power BI • Machine Learning
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-souza-18525324b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vitorszsilva64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+Sobre mim
+Estudante de Ciências da Computação (8º semestre, UNIP — São Paulo) com foco em análise de dados e ciência de dados. Tenho experiência prática com Python, SQL e ferramentas de BI, e estou finalizando minha graduação com um TCC na área de detecção de fake news com Machine Learning e XAI (Explainable AI).
+Busco minha primeira oportunidade como Analista de Dados, onde possa aplicar habilidades em análise exploratória, visualização e modelagem para gerar valor real com dados.
+
+Stack Principal
+Dados & Análise
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+[MicrosoftSQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+Visualização
+[PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+Machine Learning
+[Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+Outros
+[Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+Projetos em Destaque
+🧠 FakeBr-IA (TCC — em andamento)
+Comparativo de modelos de ML (Naive Bayes, Regressão Logística e MLP) para detecção de fake news em português brasileiro usando o corpus Fake.Br. Diferencial: camada de XAI (Explainable AI) para interpretabilidade dos resultados.
+🚲 Cyclistic Bike-Share — Case Study
+Análise completa do case study do Google Data Analytics Certificate traduzido para português. Pipeline completo de limpeza, análise e visualização de dados.
+🗺️ TechRecycling
+Plataforma web de logística reversa de e-lixo para São Paulo. Integra Google Maps API com geolocalização dos ecopontos da cidade. Front-end completo em HTML/CSS/JS com dados reais.
+
+Certificações
+🏅 Google Data Analytics Certificate — Coursera
 
 
-Opa, meu nome é Vítor, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou no 8º Semestre de Ciências da Computação na Universidade Paulista. </br>
-Já realizei alguns projetos, seja para trabalho ou para estudo, você pode conferir nos meus repositórios alguns deles, fique a vontade</br>
-Futuro Analista de Dados</br>  
+GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-Minhas Redes:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-souza-18525324b/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorszsilva64@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vittinnn/)
-
-
-
-Tecnologias que costumo usar:
-
-<div style="display: inline_block"><br/> 
-    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
+<p align="center">
+  <em>Aberto a oportunidades em Análise de Dados e áreas correlatas.</em>
+</p>
