@@ -1,5 +1,5 @@
 <h1 align="center">Vítor de Souza</h1>
-<h3 align="center">Analista de Dados em formação · São Paulo, SP</h3>
+<h3 align="center">Analista de Dados · São Paulo, SP</h3>
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-souza-18525324b" target="_blank">
@@ -19,11 +19,12 @@ Buscando minha primeira oportunidade como Analista de Dados.
 <br/>
 🛠 Tecnologias
 Dados & Análise
+[Icons](https://skillicons.dev/icons?i=python,java,git,html,css,js)
 [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 [NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 [MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-[bigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+[BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 Visualização
 [PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 [Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
