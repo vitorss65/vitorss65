@@ -31,18 +31,6 @@ Outros
 [Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 [Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Projetos em Destaque
-🧠 FakeBr-IA (TCC — em andamento)
-Comparativo de modelos de ML (Naive Bayes, Regressão Logística e MLP) para detecção de fake news em português brasileiro usando o corpus Fake.Br. Diferencial: camada de XAI (Explainable AI) para interpretabilidade dos resultados.
-🚲 Cyclistic Bike-Share — Case Study
-Análise completa do case study do Google Data Analytics Certificate traduzido para português. Pipeline completo de limpeza, análise e visualização de dados.
-🗺️ TechRecycling
-Plataforma web de logística reversa de e-lixo para São Paulo. Integra Google Maps API com geolocalização dos ecopontos da cidade. Front-end completo em HTML/CSS/JS com dados reais.
-
-Certificações
-🏅 Google Data Analytics Certificate — Coursera
-
-
 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=tokyonight&hide_border=true" />
