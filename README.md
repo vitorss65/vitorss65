@@ -1,78 +1,66 @@
-<h1 align="center">Vítor de Souza</h1>
-<h3 align="center">Analista de Dados · São Paulo, SP</h3>
+<div align="center">
 
-<br/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=V%C3%ADtor+de+Souza;Analista+de+Dados;Python+%7C+SQL+%7C+Power+BI" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vitor-souza-18525324b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  
-  <a href="mailto:vitorszsilva64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-  </a>
-</p>
+</div>
 
-<br/>
+<h3 align="center">
+Analista de Dados · São Paulo, SP
+</h3>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vitor-souza-18525324b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vitorszsilva64@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Ciências da Computação no 8º semestre na UNIP (São Paulo), com foco em análise de dados.  
+Estudante de Ciências da Computação no 8º semestre na UNIP (São Paulo), com foco em análise de dados.
 
-Tenho experiência prática com Python, SQL e ferramentas de BI, e atualmente estou melhorando meu portfólio.  
+Tenho experiência prática com Python, SQL e ferramentas de BI, e atualmente estou desenvolvendo meu portfólio.
 
 Buscando minha primeira oportunidade como Analista de Dados.
 
-<br/>
+---
 
 ## 🛠 Tecnologias
 
-### Dados & Análise
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,git,html,css,js" />
-</p>
+<img height="55" src="https://skillicons.dev/icons?i=python,java,git,html,css,js,mysql"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
-</p>
+<br><br>
 
-### Visualização
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</p>
+</div>
 
-### Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
-
-### Outros
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-<br/>
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="165"
-  />
+<div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorss65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=vitorss65&theme=tokyonight&hide_border=true"/>
+
+</div>
