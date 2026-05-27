@@ -37,6 +37,3 @@ GitHub Stats
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorss65&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <em>Aberto a oportunidades em Análise de Dados e áreas correlatas.</em>
-</p>
